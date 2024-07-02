@@ -18,4 +18,4 @@ O objetivo do software é permitir que os usuários gerenciem suas tarefas diár
 4. **Excluir Tarefa:** Os usuários podem excluir tarefas da lista.
 5. **Persistência de Dados:** As tarefas devem ser salvas no navegador (localStorage) para que os dados não sejam perdidos ao recarregar a página.
 
-## Deploy: https://pedrolima019.github.io/Lista-Tarefas-JS-/
+#### Deploy: https://pedrolima019.github.io/Lista-Tarefas-JS-/
